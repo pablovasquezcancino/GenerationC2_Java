@@ -37,6 +37,11 @@ public class Main {
 		String palabra = "hola como estas";
 		
 		System.out.println(palabra + " " + caracter + " " + numero22);
+		
+		
+		Long numero3 = 12345678L;
+		
+		//COnversion datos numericos en Java
 
 	}
 
